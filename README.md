@@ -1,12 +1,19 @@
 # C_Sharp_Connect_Four
 
 How to play game:
+
   -A dialog box will show when the game is started.
+  
   -Select 'Yes' to play against the CPU
+  
   -Select 'No' to play a 2-player game
+  
   -Click in the column where you choose to move
+  
   -The goal is to get 4 checkers in a row, either horizontally, vertically, or diagonally.
+  
   -When playing against the CPU, click the mouse to display the CPUs move. 
+  
   -A label displays the column number where the last move was made to help keep track of the play.
 
 
